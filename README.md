@@ -1,17 +1,6 @@
 # Python project 1: Tic tac toe game
 This is a simple implementation of the classic Tic Tac Toe game in Python. The game is played on a 3x3 grid where two players take turns marking spaces. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
-
-### Installation
-To run the game, make sure you have Python installed on your system. You can download Python from python.org.
-
-Clone the repository to your local machine:
-git clone https://github.com/rumansyed0786/tic-tac-toe.git
-
-Navigate to the project directory:
-cd tic-tac-toe-python
-
-python tic_tac_toe.py
-----
+-----
 
 ### How to Play
 - The game starts by displaying an empty Tic Tac Toe board.
